@@ -370,60 +370,36 @@ p<0.01
 
 ---
 
-## 十、Power BI Dashboard（用户流失与留存分析）
 
-本项目使用 Power BI 构建四个分析 Dashboard，将用户风险预测、用户分群、留存表现及购买转化情况整合到可视化分析界面中。
+## 十、Dashboard 展示（Dashboard Showcase）
+
+本项目包含四个 Power BI Dashboard 页面，分别展示整体业务表现、用户分群、用户留存及购买转化分析。
 
 ### Page 1 — Executive Overview
 
-整体业务概况：
+![Executive Overview](./assets/Page1_Executive_Overview.png)
 
-- User Count
-- Churn Rate
-- Average Order Value
-- Behavioral Trends
-- Churn-related KPIs
+整体展示用户数量、流失率、平均订单金额及核心业务指标。
 
 ### Page 2 — User Segmentation
 
-用户价值与风险分群：
+![User Segmentation](./assets/Page2_User_Segmentation.png)
 
-- User Risk Distribution
-- Churn-risk Segments
-- User Behavioral Patterns
-- High-risk User Identification
+展示不同用户群体的风险分布、行为特征及高风险用户识别结果。
 
 ### Page 3 — Retention Heatmap
 
-用户留存表现：
+![Retention Heatmap](./assets/Page3_Retention_Heatmap.png)
 
-- Cohort Retention
-- Retention Heatmap
-- Retention Trends
-- Different Risk Group Comparisons
+展示 Cohort Retention、用户留存热力图及不同用户群体的留存表现。
 
 ### Page 4 — Funnel Optimization
 
-用户购买行为分析：
+![Funnel Optimization](./assets/Page4_Funnel_Optimization.png)
 
-- Page View
-- Add to Cart
-- Purchase
-- Conversion Funnel
-- Behavioral Transition
+展示 Page View、Add to Cart、Purchase 及购买转化路径。
 
-### Dashboard 文件
 
-项目包含以下 Power BI 源文件：
-
-| Dashboard | 文件 |
-|---|---|
-| Executive Overview | `Executive_Overview.pbix` |
-| User Segmentation | `User_Segmentation.pbix` |
-| Retention Heatmap | `Retention_Heatmap.pbix` |
-| Funnel Optimization | `Funnel_Optimization.pbix` |
-
----
 
 ## 十一、项目目录结构（Repository Structure）
 
