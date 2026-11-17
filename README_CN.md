@@ -246,8 +246,7 @@
 $$
 \Delta GMV =
 N_{target} \times Recall \times ConversionRate \times AOV
--
-Cost_{coupons}
+- Cost_{coupons}
 $$
 
 
@@ -311,8 +310,9 @@ Treatment Group 的7天留存率高于 Control Group。
 
 
 $$
-28.8\%-21.5\%=7.3\text{ percentage points}
+Absolute\ Uplift = 28.8\% - 21.5\% = 7.3
 $$
+
 
 即：
 
@@ -322,9 +322,11 @@ $$
 
 
 $$
+Relative\ Uplift =
 \frac{28.8\%-21.5\%}{21.5\%}\times100\%
 \approx 33.95\%
 $$
+
 
 即相对留存率提升约33.95%。
 
