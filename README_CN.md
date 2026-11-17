@@ -3,7 +3,7 @@
 
 **SQL · MySQL · Python · Pandas · Scikit-learn · Random Forest · Power BI**
 
-[English README](./README.md) | 中文项目介绍
+[English](./README.md) | [中文项目介绍](./README_CN.md)
 
 ---
 
