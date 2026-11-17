@@ -371,34 +371,36 @@ p<0.01
 ---
 
 
+
 ## 十、Dashboard 展示（Dashboard Showcase）
 
-本项目包含四个 Power BI Dashboard 页面，分别展示整体业务表现、用户分群、用户留存及购买转化分析。
+本项目包含四个 Power BI Dashboard 页面，分别展示整体业务表现、用户留存、用户风险分群及购买转化分析。
 
 ### Page 1 — Executive Overview
 
-![Executive Overview](./assets/Page1_Executive_Overview.png)
+![Executive Overview](./assets/Executive_Overview.png)
 
 整体展示用户数量、流失率、平均订单金额及核心业务指标。
 
 ### Page 2 — User Segmentation
 
-![User Segmentation](./assets/Page2_User_Segmentation.png)
+![User Segmentation](./assets/User_Segmentation.png)
 
 展示不同用户群体的风险分布、行为特征及高风险用户识别结果。
 
 ### Page 3 — Retention Heatmap
 
-![Retention Heatmap](./assets/Page3_Retention_Heatmap.png)
+![Retention Heatmap](./assets/Retention_Heatmap.png)
 
 展示 Cohort Retention、用户留存热力图及不同用户群体的留存表现。
 
 ### Page 4 — Funnel Optimization
 
-![Funnel Optimization](./assets/Page4_Funnel_Optimization.png)
+![Funnel Optimization](./assets/Funnel_Optimization.png)
 
 展示 Page View、Add to Cart、Purchase 及购买转化路径。
 
+---
 
 
 ## 十一、项目目录结构（Repository Structure）
