@@ -242,15 +242,14 @@
 
 ### 7.1 估算公式
 
-\[
+
+$$
 \Delta GMV =
-N_{target}
-\times Recall
-\times ConversionRate
-\times AOV
+N_{target} \times Recall \times ConversionRate \times AOV
 -
 Cost_{coupons}
-\]
+$$
+
 
 其中：
 
@@ -310,9 +309,10 @@ Treatment Group 的7天留存率高于 Control Group。
 
 ### 8.3 绝对提升（Absolute Uplift）
 
-\[
-28.8\%-21.5\%=7.3
-\]
+
+$$
+28.8\%-21.5\%=7.3\text{ percentage points}
+$$
 
 即：
 
@@ -320,11 +320,11 @@ Treatment Group 的7天留存率高于 Control Group。
 
 ### 8.4 相对提升（Relative Uplift）
 
-\[
-\frac{28.8\%-21.5\%}{21.5\%}
-\times100\%
-\approx33.95\%
-\]
+
+$$
+\frac{28.8\%-21.5\%}{21.5\%}\times100\%
+\approx 33.95\%
+$$
 
 即相对留存率提升约33.95%。
 
